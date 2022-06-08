@@ -1,0 +1,3 @@
+2021-02-02T03:32:43+00:00 ERROR DOMXPath::query(): Invalid expression in selector >> h1 << in C:\wamp64\www\thegioididong\wp-content\plugins\woocommerce\includes\libraries\class-emogrifier.php on line 373
+2021-02-02T03:32:45+00:00 ERROR DOMXPath::query(): Invalid expression in selector >> h1 << in C:\wamp64\www\thegioididong\wp-content\plugins\woocommerce\includes\libraries\class-emogrifier.php on line 373
+2021-02-02T03:32:47+00:00 ERROR DOMXPath::query(): Invalid expression in selector >> h1 << in C:\wamp64\www\thegioididong\wp-content\plugins\woocommerce\includes\libraries\class-emogrifier.php on line 373
